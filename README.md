@@ -1,5 +1,5 @@
 <h3 align="center">
-  ✔️Faça a sua lista de tecnologias para se tornar um Dev Full Stack Java Jr📝
+  ✔️Faça a sua lista de tecnologias para se tornar um Dev Full Stack JavaScript📝
 </h3>
 
 ## 🔖 Informações
